@@ -1,0 +1,5 @@
+com/ryan/ws/dto/SumResponse.class
+com/ryan/ws/SumWS.class
+com/ryan/ws/dto/SumRequest.class
+com/ryan/ws/PasswordCallbackHandler.class
+com/ryan/ws/SumWSImpl.class
